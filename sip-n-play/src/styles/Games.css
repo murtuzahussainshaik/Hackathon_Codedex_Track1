@@ -1,0 +1,32 @@
+
+.games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.games-group {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(222, 233, 211, 1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.games-group h3 {
+    margin-top: 0;
+}
+
+.games-group ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.games-group li {
+    margin-bottom: 5px;
+}
+
+#games{
+
+}

@@ -1,0 +1,14 @@
+.hero {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('../images/pexels-nietjuh-776654.jpg') no-repeat center center/cover;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: normal;
+    line-height: normal;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
